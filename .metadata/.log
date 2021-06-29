@@ -332,3 +332,12 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 17:41:23.260
 !MESSAGE executing callback sts4.classpath.TeOaaCWF SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-29 18:04:48.973
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:04:50.915
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:04:52.590
+!MESSAGE Has main method computation for project 'firstApplication'
