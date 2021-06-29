@@ -21,7 +21,7 @@ public class User {
 	
 	@GetMapping
 	public String getUser(@RequestParam(value="Page",defaultValue = "1") int page,
-						  @RequestParam(value="limit",defaultValue = "50") int limit)
+						  @RequestParam(value="Page",defaultValue = "50") int limit)
 	{
 		return "getUser was called with page = " + page + " limit = " + limit;
 	}

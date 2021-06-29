@@ -13,17 +13,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/users")
 public class User {
 	
-	@GetMapping(path="/{userId}")
-	public String getUser(@PathVariable String userId)
-	{
-		return "getUser was called with userId = " + userId;
-	}
-	
 	@GetMapping
-	public String getUser(@RequestParam(value="Page",defaultValue = "1") int page,
-						  @RequestParam(value="limit",defaultValue = "50") int limit)
+	public String getUser()
 	{
-		return "getUser was called with page = " + page + " limit = " + limit;
+		return "getUser was called";
 	}
 	
 	@PostMapping

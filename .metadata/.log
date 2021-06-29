@@ -341,3 +341,54 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY Activator 1 0 2021-06-29 18:04:52.590
 !MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:08:44.758
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:08:45.358
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:12:49.096
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:12:49.819
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:13:30.846
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:13:31.490
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:14:09.166
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:14:09.765
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:14:37.899
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:14:38.486
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY org.eclipse.ui 2 2 2021-06-29 18:18:29.471
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-06-29 18:18:53.207
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:18:53.422
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:19:05.210
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:19:05.882
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:19:16.632
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-29 18:19:17.411
+!MESSAGE Has main method computation for project 'firstApplication'

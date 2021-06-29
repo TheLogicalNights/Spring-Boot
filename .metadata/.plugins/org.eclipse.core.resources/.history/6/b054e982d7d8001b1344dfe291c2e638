@@ -19,13 +19,6 @@ public class User {
 		return "getUser was called with userId = " + userId;
 	}
 	
-	@GetMapping
-	public String getUser(@RequestParam(value="Page",defaultValue = "1") int page,
-						  @RequestParam(value="limit",defaultValue = "50") int limit)
-	{
-		return "getUser was called with page = " + page + " limit = " + limit;
-	}
-	
 	@PostMapping
 	public String createUser()
 	{
