@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/users")
 public class User {
 	
+	@GetMapping
 	public String getUser()
 	{
 		return "getUser was called";
