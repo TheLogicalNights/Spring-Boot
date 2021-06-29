@@ -1,0 +1,5 @@
+package com.spring.firstApplication.controller;
+
+public class User {
+
+}
