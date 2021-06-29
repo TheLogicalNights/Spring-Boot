@@ -1,7 +1,5 @@
 package com.spring.firstApplication.controller;
 
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -17,26 +15,15 @@ import com.spring.firstApplication.model.UserRest;
 @RequestMapping("/users")
 public class User {
 	
-//	@GetMapping(path="/{userId}")
-//	public UserRest getUser(@PathVariable String userId)
-//	{
-//		UserRest returnValue = new UserRest();
-//		returnValue.setFirstName("Swapnil");
-//		returnValue.setLastName("Adhav");
-//		returnValue.setEmail("swapniladhav560@gmail.com");
-//		returnValue.setUserId(userId);
-//		return returnValue;
-//	}
-	
 	@GetMapping(path="/{userId}")
-	public ResponseEntity<UserRest> getUser(@PathVariable String userId)
+	public UserRest getUser(@PathVariable String userId)
 	{
 		UserRest returnValue = new UserRest();
 		returnValue.setFirstName("Swapnil");
 		returnValue.setLastName("Adhav");
 		returnValue.setEmail("swapniladhav560@gmail.com");
 		returnValue.setUserId(userId);
-		return new ResponseEntity<UserRest>(returnValue,HttpStatus.BAD_REQUEST);
+		return returnValue;
 	}
 	
 	@GetMapping
