@@ -4618,3 +4618,886 @@ java.util.concurrent.TimeoutException
 
 !ENTRY Activator 1 0 2021-06-30 12:34:10.672
 !MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:40:17.773
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:40:17.774
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 12:43:05.175
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:05.177
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:05.181
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:05.197
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:05.230
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:05.234
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:05.262
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:05.277
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:05.287
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:05.314
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:05.341
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:06.823
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:06.823
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:06.824
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:06.827
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:06.876
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:06.899
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:06.902
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:06.908
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:06.922
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:06.948
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:06.969
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:07.015
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:07.781
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:07.782
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:07.785
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:07.789
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:07.860
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:07.860
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:07.861
+!MESSAGE buffering callback sts4.classpath.sKjppSfN GetHandlerReturningJavaObj false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:07.861
+!MESSAGE executing callback sts4.classpath.sKjppSfN 1 batched events
+
+!ENTRY Activator 1 0 2021-06-30 12:43:07.896
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:07.897
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:07.901
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:07.933
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:08.188
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:08.467
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:08.478
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:08.483
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:08.504
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:08.504
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:09.249
+!MESSAGE executing callback sts4.classpath.sKjppSfN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:09.251
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:09.253
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:09.253
+!MESSAGE buffering callback sts4.classpath.sKjppSfN GetHandlerReturningJavaObj false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:09.254
+!MESSAGE executing callback sts4.classpath.sKjppSfN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:09.274
+!MESSAGE executing callback sts4.classpath.sKjppSfN SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.088
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.088
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.088
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.089
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.089
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:10.126
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:10.127
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:10.128
+!MESSAGE buffering callback sts4.classpath.sKjppSfN GetHandlerReturningJavaObj false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:10.128
+!MESSAGE executing callback sts4.classpath.sKjppSfN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:10.148
+!MESSAGE executing callback sts4.classpath.sKjppSfN SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.535
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.543
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.548
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.568
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.590
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.705
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.781
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.816
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.817
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:10.838
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:11.198
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:11.198
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:11.199
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:11.206
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:11.213
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:43:22.237
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:43:22.237
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:22.341
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.sKjppSfN
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:22.341
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.sKjppSfN
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:22.342
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:43:22.342
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.sKjppSfN => OK
+
+!ENTRY org.eclipse.ui 2 2 2021-06-30 12:43:29.939
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-06-30 12:43:39.064
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:39.069
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:39.070
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:39.077
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:39.078
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:39.310
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:39.314
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:39.314
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:39.317
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:43:39.318
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:23.419
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:23.424
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4e1885aa[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=553)]
+
+!ENTRY Activator 1 0 2021-06-30 12:44:23.425
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:44:23.425
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:44:23.425
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:44:23.426
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:44:23.426
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:23.429
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2021-06-30 12:44:23.990
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:44:23.997
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:44:23.998
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:44:24.006
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:44:24.010
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-06-30 12:44:24.857
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.LanguageServerWrapper.supportsWorkspaceFolderCapability(LanguageServerWrapper.java:553)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:542)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:871)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.lambda$6(LanguageServiceAccessor.java:361)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.HashMap$KeySpliterator.forEachRemaining(HashMap.java:1694)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLSWrappers(LanguageServiceAccessor.java:362)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLanguageServers(LanguageServiceAccessor.java:588)
+	at org.eclipse.lsp4e.operations.codelens.CodeLensProvider.provideCodeMinings(CodeLensProvider.java:41)
+	at org.eclipse.lsp4e.operations.codelens.CodeLensProvider.provideCodeMinings(CodeLensProvider.java:73)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.lambda$2(CodeMiningManager.java:189)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.getCodeMinings(CodeMiningManager.java:195)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.updateCodeMinings(CodeMiningManager.java:140)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.run(CodeMiningManager.java:129)
+	at org.eclipse.jface.text.source.SourceViewer.updateCodeMinings(SourceViewer.java:1313)
+	at org.eclipse.jface.text.source.SourceViewer.ensureCodeMiningManagerInstalled(SourceViewer.java:1301)
+	at org.eclipse.jface.text.source.SourceViewer.setCodeMiningAnnotationPainter(SourceViewer.java:1320)
+	at org.eclipse.ui.texteditor.SourceViewerDecorationSupport.showAnnotations(SourceViewerDecorationSupport.java:830)
+	at org.eclipse.ui.texteditor.SourceViewerDecorationSupport.updateTextDecorations(SourceViewerDecorationSupport.java:301)
+	at org.eclipse.ui.texteditor.SourceViewerDecorationSupport.install(SourceViewerDecorationSupport.java:269)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:456)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.createPartControl(JavaEditor.java:3079)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.createPartControl(CompilationUnitEditor.java:1521)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:96)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:999)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:964)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:140)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:405)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:332)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:999)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:104)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:5996)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:170)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:188)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:660)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:624)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:786)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:400)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1260)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3195)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$9(WorkbenchPage.java:3100)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3098)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3068)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3059)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:569)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:524)
+	at org.eclipse.jdt.internal.ui.wizards.NewElementWizard.lambda$0(NewElementWizard.java:71)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5096)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4602)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:25.815
+!MESSAGE Boot LS startup time from start to initialized: 2386ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.010
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.VcIXSjRqisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.010
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.011
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.011
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.011
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.013
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.014
+!MESSAGE buffering callback sts4.classpath.VcIXSjRq GetHandlerReturningJavaObj false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.014
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.015
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.016
+!MESSAGE buffering callback sts4.classpath.VcIXSjRq GetHandlerReadingPathVariable false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.016
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.018
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.019
+!MESSAGE buffering callback sts4.classpath.VcIXSjRq GetHandlerReadingQueryStringRequestParameters false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.019
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.021
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.VcIXSjRq => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.022
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.023
+!MESSAGE buffering callback sts4.classpath.VcIXSjRq GetImplementation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.024
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.025
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.026
+!MESSAGE buffering callback sts4.classpath.VcIXSjRq firstApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.026
+!MESSAGE executing callback sts4.classpath.VcIXSjRq 5 batched events
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:44:26.122
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:44:26.122
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 12:44:26.824
+!MESSAGE executing callback sts4.classpath.VcIXSjRq SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-30 12:45:53.967
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:45:53.968
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:45:53.969
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:45:53.969
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:45:53.969
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:45:54.002
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:45:54.002
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 12:45:54.610
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:45:54.614
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:45:54.620
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:45:54.621
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:45:54.623
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:01.301
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:01.302
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:01.303
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:01.303
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:01.304
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:46:01.334
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:46:01.334
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 12:46:01.903
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:01.906
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:01.906
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:01.910
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:01.939
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:04.332
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:04.333
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:04.333
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:04.334
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:04.335
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:46:04.373
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:46:04.374
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 12:46:05.447
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:05.447
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:05.448
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:05.448
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:05.453
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:18.640
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:18.641
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:18.641
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:18.642
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:18.643
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:18.827
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:18.827
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:18.827
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:18.828
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:18.828
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:29.322
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:29.322
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:29.323
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:29.323
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:29.324
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:46:29.808
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:46:29.809
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 12:46:29.880
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:29.902
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:29.914
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:29.919
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:46:29.964
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:21.792
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:21.793
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:21.793
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:21.794
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:21.796
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:47:21.838
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:47:21.839
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 12:47:22.350
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:22.350
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:22.351
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:22.353
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:22.377
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:34.282
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:34.283
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:34.283
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:34.284
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:34.285
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:47:34.319
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:47:34.319
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 12:47:34.831
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:34.840
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:34.842
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:34.860
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:47:34.865
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:47:37.412
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:47:37.413
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:49:38.094
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:49:38.094
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 12:50:34.561
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:34.562
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:34.562
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:34.562
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:34.562
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:50:34.592
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 12:50:34.592
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 12:50:35.104
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:35.110
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:35.121
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:35.124
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:35.130
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:41.435
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:41.439
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:41.439
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:41.445
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:41.449
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:41.505
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:41.507
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:41.507
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:41.507
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:41.525
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:46.929
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:46.930
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:46.931
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:46.933
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:46.937
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:46.970
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:46.980
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:46.995
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:47.002
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:47.013
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:57.338
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:57.339
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:57.340
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:57.340
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 12:50:57.340
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
