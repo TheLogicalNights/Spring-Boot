@@ -1565,3 +1565,975 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 09:57:15.492
 !MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:00:57.958
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:00:57.958
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2021-06-30 10:15:45.903
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/wakatime/eclipse-wakatime/master/update-site/artifacts.jar
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2021-06-30 10:15:46.509
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/wakatime/eclipse-wakatime/master/update-site/content.jar
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:15:50.555
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:15:50.555
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 10:17:22.627
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:22.627
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY org.eclipse.ui 4 0 2021-06-30 10:17:22.780
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalArgumentException: Argument not valid
+	at org.eclipse.swt.SWT.error(SWT.java:4874)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.SWT.error(SWT.java:4779)
+	at org.eclipse.swt.graphics.Image.init(Image.java:1269)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:219)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.GradientCanvas.onPaint(GradientCanvas.java:168)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.GradientCanvas.lambda$0(GradientCanvas.java:81)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5879)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1427)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1453)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1436)
+	at org.eclipse.swt.widgets.Control.gtk_draw(Control.java:3910)
+	at org.eclipse.swt.widgets.Scrollable.gtk_draw(Scrollable.java:365)
+	at org.eclipse.swt.widgets.Composite.gtk_draw(Composite.java:495)
+	at org.eclipse.swt.widgets.Canvas.gtk_draw(Canvas.java:181)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2290)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:6764)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6132)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_do_event(Native Method)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1567)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_iteration_do(Native Method)
+	at org.eclipse.swt.browser.WebKit$Webkit2AsyncToSync.execAsyncAndWaitForReturn(WebKit.java:1458)
+	at org.eclipse.swt.browser.WebKit$Webkit2AsyncToSync.runjavascript(WebKit.java:1206)
+	at org.eclipse.swt.browser.WebKit$Webkit2AsyncToSync.evaluate(WebKit.java:1154)
+	at org.eclipse.swt.browser.WebKit.evaluate(WebKit.java:1475)
+	at org.eclipse.swt.browser.WebKit.close(WebKit.java:979)
+	at org.eclipse.swt.browser.WebKit.onDispose(WebKit.java:1968)
+	at org.eclipse.swt.browser.WebKit.lambda$4(WebKit.java:882)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5879)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1427)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1453)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1432)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:1244)
+	at org.eclipse.swt.widgets.Control.release(Control.java:4706)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:535)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.computeBrowserAvailable(AbstractMarketplaceDiscoveryItem.java:521)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createInfoLink(AbstractMarketplaceDiscoveryItem.java:394)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createDescription(AbstractMarketplaceDiscoveryItem.java:341)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createContent(AbstractMarketplaceDiscoveryItem.java:241)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createContent(AbstractMarketplaceDiscoveryItem.java:203)
+	at org.eclipse.epp.internal.mpc.ui.wizards.DiscoveryItem.createContent(DiscoveryItem.java:123)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.<init>(AbstractMarketplaceDiscoveryItem.java:168)
+	at org.eclipse.epp.internal.mpc.ui.wizards.DiscoveryItem.<init>(DiscoveryItem.java:102)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.createDiscoveryItem(MarketplaceViewer.java:501)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.doCreateViewerItem(MarketplaceViewer.java:435)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer$3.doCreateItem(CatalogViewer.java:344)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.ControlListViewer.createNewItem(ControlListViewer.java:244)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.ControlListViewer.refreshAll(ControlListViewer.java:486)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.ControlListViewer.inputChanged(ControlListViewer.java:358)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:282)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1634)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer.catalogUpdated(CatalogViewer.java:250)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.access$3(MarketplaceViewer.java:1)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.lambda$1(MarketplaceViewer.java:377)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.runUpdate(MarketplaceViewer.java:772)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.catalogUpdated(MarketplaceViewer.java:376)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer.updateCatalog(CatalogViewer.java:589)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.updateCatalog(MarketplaceViewer.java:1049)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplacePage.safeUpdateCatalog(MarketplacePage.java:810)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplacePage.lambda$4(MarketplacePage.java:798)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5096)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4602)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.epp.internal.mpc.ui.commands.AbstractMarketplaceWizardCommand.openWizardDialog(AbstractMarketplaceWizardCommand.java:146)
+	at org.eclipse.epp.internal.mpc.ui.commands.AbstractMarketplaceWizardCommand.execute(AbstractMarketplaceWizardCommand.java:73)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:438)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:449)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:475)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5879)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1427)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5121)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4599)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY Activator 1 0 2021-06-30 10:17:22.841
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:22.875
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:25.810
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:25.811
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:25.946
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:25.960
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:26.594
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:26.594
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:26.725
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:26.742
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:26.993
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:27.003
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:27.127
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:27.146
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:27.169
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:27.170
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:27.170
+!MESSAGE buffering callback sts4.classpath.RJTZcFvc GetHandlerReadingPathVariable false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:27.171
+!MESSAGE executing callback sts4.classpath.RJTZcFvc 1 batched events
+
+!ENTRY Activator 1 0 2021-06-30 10:17:27.227
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:27.240
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:27.875
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:27.903
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:27.922
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:27.927
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:28.161
+!MESSAGE executing callback sts4.classpath.RJTZcFvc SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:28.164
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:28.167
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:28.168
+!MESSAGE buffering callback sts4.classpath.RJTZcFvc GetHandlerReadingPathVariable false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:28.169
+!MESSAGE executing callback sts4.classpath.RJTZcFvc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:28.227
+!MESSAGE executing callback sts4.classpath.RJTZcFvc SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-30 10:17:28.482
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:28.521
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:28.531
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:29.607
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:29.610
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:29.613
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:29.669
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:29.671
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:29.672
+!MESSAGE buffering callback sts4.classpath.RJTZcFvc GetHandlerReadingPathVariable false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:29.672
+!MESSAGE executing callback sts4.classpath.RJTZcFvc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:17:29.707
+!MESSAGE executing callback sts4.classpath.RJTZcFvc SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-30 10:17:30.057
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:30.063
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:30.080
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:30.181
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:30.182
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:30.183
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:30.982
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:30.987
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:31.001
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:31.723
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:31.724
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:17:31.726
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:31.050
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.RJTZcFvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:31.051
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.RJTZcFvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:31.051
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:31.052
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.RJTZcFvc => OK
+
+!ENTRY org.eclipse.ui 2 2 2021-06-30 10:19:31.654
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-06-30 10:19:34.692 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -data file:/home/synerzip/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/ -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-06-30 10:19:44.866
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-30 10:19:44.866
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@185a0811,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@77fb1002,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:51.179
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:51.180
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@aea023[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=553)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:51.183
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:51.231
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-06-30 10:19:52.816
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:19:52.818
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:19:52.819
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.040
+!MESSAGE Boot LS startup time from start to initialized: 7842ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.328
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.erQgCGYgisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.341
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.354
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.358
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.370
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.372
+!MESSAGE buffering callback sts4.classpath.erQgCGYg GetImplementation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.372
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.373
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.373
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.erQgCGYg => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.405
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.408
+!MESSAGE buffering callback sts4.classpath.erQgCGYg GetHandlerReadingPathVariable false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.416
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.421
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.424
+!MESSAGE buffering callback sts4.classpath.erQgCGYg firstApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:19:59.427
+!MESSAGE executing callback sts4.classpath.erQgCGYg 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:20:00.547
+!MESSAGE executing callback sts4.classpath.erQgCGYg SUCCESS [done]
+
+!ENTRY org.eclipse.ui 4 0 2021-06-30 10:20:34.903
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalArgumentException: Argument not valid
+	at org.eclipse.swt.SWT.error(SWT.java:4874)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.SWT.error(SWT.java:4779)
+	at org.eclipse.swt.graphics.Image.init(Image.java:1269)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:219)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.GradientCanvas.onPaint(GradientCanvas.java:168)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.GradientCanvas.lambda$0(GradientCanvas.java:81)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5879)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1427)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1453)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1436)
+	at org.eclipse.swt.widgets.Control.gtk_draw(Control.java:3910)
+	at org.eclipse.swt.widgets.Scrollable.gtk_draw(Scrollable.java:365)
+	at org.eclipse.swt.widgets.Composite.gtk_draw(Composite.java:495)
+	at org.eclipse.swt.widgets.Canvas.gtk_draw(Canvas.java:181)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2290)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:6764)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6132)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_do_event(Native Method)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1567)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_iteration_do(Native Method)
+	at org.eclipse.swt.browser.WebKit$Webkit2AsyncToSync.execAsyncAndWaitForReturn(WebKit.java:1458)
+	at org.eclipse.swt.browser.WebKit$Webkit2AsyncToSync.runjavascript(WebKit.java:1206)
+	at org.eclipse.swt.browser.WebKit$Webkit2AsyncToSync.evaluate(WebKit.java:1154)
+	at org.eclipse.swt.browser.WebKit.evaluate(WebKit.java:1475)
+	at org.eclipse.swt.browser.WebKit.close(WebKit.java:979)
+	at org.eclipse.swt.browser.WebKit.onDispose(WebKit.java:1968)
+	at org.eclipse.swt.browser.WebKit.lambda$4(WebKit.java:882)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5879)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1427)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1453)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1432)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:1244)
+	at org.eclipse.swt.widgets.Control.release(Control.java:4706)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:535)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.computeBrowserAvailable(AbstractMarketplaceDiscoveryItem.java:521)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createInfoLink(AbstractMarketplaceDiscoveryItem.java:394)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createDescription(AbstractMarketplaceDiscoveryItem.java:341)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createContent(AbstractMarketplaceDiscoveryItem.java:241)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createContent(AbstractMarketplaceDiscoveryItem.java:203)
+	at org.eclipse.epp.internal.mpc.ui.wizards.DiscoveryItem.createContent(DiscoveryItem.java:123)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.<init>(AbstractMarketplaceDiscoveryItem.java:168)
+	at org.eclipse.epp.internal.mpc.ui.wizards.DiscoveryItem.<init>(DiscoveryItem.java:102)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.createDiscoveryItem(MarketplaceViewer.java:501)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.doCreateViewerItem(MarketplaceViewer.java:435)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer$3.doCreateItem(CatalogViewer.java:344)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.ControlListViewer.createNewItem(ControlListViewer.java:244)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.ControlListViewer.refreshAll(ControlListViewer.java:486)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.ControlListViewer.inputChanged(ControlListViewer.java:358)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:282)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1634)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer.catalogUpdated(CatalogViewer.java:250)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.access$3(MarketplaceViewer.java:1)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.lambda$1(MarketplaceViewer.java:377)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.runUpdate(MarketplaceViewer.java:772)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.catalogUpdated(MarketplaceViewer.java:376)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer.updateCatalog(CatalogViewer.java:589)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.updateCatalog(MarketplaceViewer.java:1049)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplacePage.safeUpdateCatalog(MarketplacePage.java:810)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplacePage.lambda$4(MarketplacePage.java:798)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5096)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4602)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.epp.internal.mpc.ui.commands.AbstractMarketplaceWizardCommand.openWizardDialog(AbstractMarketplaceWizardCommand.java:146)
+	at org.eclipse.epp.internal.mpc.ui.commands.AbstractMarketplaceWizardCommand.execute(AbstractMarketplaceWizardCommand.java:73)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:438)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:449)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:475)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5879)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1427)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5121)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4599)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2021-06-30 10:21:43.876
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/wakatime/eclipse-wakatime/master/update-site/content.jar
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2021-06-30 10:21:57.820
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/wakatime/eclipse-wakatime/master/update-site/artifacts.jar
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:12.410
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.erQgCGYg
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:12.411
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.erQgCGYg
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:12.411
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:12.411
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.erQgCGYg => OK
+
+!ENTRY org.eclipse.ui 2 2 2021-06-30 10:22:13.150
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-06-30 10:22:16.095 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -data file:/home/synerzip/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/ -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-06-30 10:22:28.247
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-30 10:22:28.247
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@443253a6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@191774d6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:37.804
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:37.805
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4bd712b1[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=553)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:37.808
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:37.872
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-06-30 10:22:39.353
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:22:39.362
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:22:39.372
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:22:43.340
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:22:43.451
+!MESSAGE Could not find python binary.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:43.808
+!MESSAGE Boot LS startup time from start to initialized: 5972ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.094
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.cWcRnwVwisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.100
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.104
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.105
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.105
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.108
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.cWcRnwVw => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.113
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.114
+!MESSAGE buffering callback sts4.classpath.cWcRnwVw GetImplementation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.115
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.117
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.121
+!MESSAGE buffering callback sts4.classpath.cWcRnwVw GetHandlerReadingPathVariable false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.122
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.124
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.124
+!MESSAGE buffering callback sts4.classpath.cWcRnwVw firstApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.125
+!MESSAGE executing callback sts4.classpath.cWcRnwVw 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:22:44.963
+!MESSAGE executing callback sts4.classpath.cWcRnwVw SUCCESS [done]
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:33:11.774
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:33:11.775
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1092)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at java.base/java.lang.Runtime.exec(Runtime.java:590)
+	at java.base/java.lang.Runtime.exec(Runtime.java:449)
+	at com.wakatime.eclipse.plugin.Dependencies.isCLIOld(Dependencies.java:107)
+	at com.wakatime.eclipse.plugin.WakaTime.checkCore(WakaTime.java:206)
+	at com.wakatime.eclipse.plugin.WakaTime.access$0(WakaTime.java:201)
+	at com.wakatime.eclipse.plugin.WakaTime$1.run(WakaTime.java:144)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5096)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4602)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2021-06-30 10:33:11.777
+!MESSAGE Upgrading wakatime-cli ...
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2021-06-30 10:33:15.059
+!MESSAGE Finished upgrading wakatime-cli.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:33:15.071
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:33:15.071
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 10:33:32.198
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:32.200
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:32.222
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:33:32.499
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:33:32.500
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 10:33:34.027
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:34.028
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:34.028
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:36.696
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:36.696
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:36.697
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:33:36.710
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.cWcRnwVw
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:33:36.710
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.cWcRnwVw
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:33:36.711
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:33:36.711
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.cWcRnwVw => OK
+
+!ENTRY Activator 1 0 2021-06-30 10:33:38.469
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:38.469
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:38.471
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:38.560
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:38.570
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:38.572
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:38.681
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:38.683
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:33:38.703
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY org.eclipse.ui 2 2 2021-06-30 10:33:53.067
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-06-30 10:34:04.271
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:34:04.281
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:34:04.283
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:34:04.539
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:34:04.554
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:34:04.554
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:17.060
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:17.061
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4bd712b1[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=553)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:17.061
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2021-06-30 10:34:17.348
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:34:17.350
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:34:17.351
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:34:17.971
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:34:18.013
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:34:18.031
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-06-30 10:34:19.230
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.LanguageServerWrapper.supportsWorkspaceFolderCapability(LanguageServerWrapper.java:553)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:542)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:871)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.lambda$6(LanguageServiceAccessor.java:361)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.HashMap$KeySpliterator.forEachRemaining(HashMap.java:1694)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLSWrappers(LanguageServiceAccessor.java:362)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLanguageServers(LanguageServiceAccessor.java:588)
+	at org.eclipse.lsp4e.ConnectDocumentToLanguageServerSetupParticipant$2.run(ConnectDocumentToLanguageServerSetupParticipant.java:75)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-06-30 10:34:20.231
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.LanguageServerWrapper.supportsWorkspaceFolderCapability(LanguageServerWrapper.java:553)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:542)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:871)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.lambda$7(LanguageServiceAccessor.java:379)
+	at java.base/java.util.stream.MatchOps$1MatchSink.accept(MatchOps.java:90)
+	at java.base/java.util.HashMap$KeySpliterator.tryAdvance(HashMap.java:1715)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:502)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:488)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.MatchOps$MatchOp.evaluateSequential(MatchOps.java:230)
+	at java.base/java.util.stream.MatchOps$MatchOp.evaluateSequential(MatchOps.java:196)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.anyMatch(ReferencePipeline.java:632)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLSWrappers(LanguageServiceAccessor.java:378)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLanguageServers(LanguageServiceAccessor.java:588)
+	at org.eclipse.lsp4e.ConnectDocumentToLanguageServerSetupParticipant$2.run(ConnectDocumentToLanguageServerSetupParticipant.java:75)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.398
+!MESSAGE Boot LS startup time from start to initialized: 3335ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.634
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.myoTmPfxisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.637
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.638
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.638
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.639
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.myoTmPfx => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.640
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.642
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.643
+!MESSAGE buffering callback sts4.classpath.myoTmPfx GetHandlerReadingPathVariable false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.643
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.645
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.654
+!MESSAGE buffering callback sts4.classpath.myoTmPfx GetImplementation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.655
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.657
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.664
+!MESSAGE buffering callback sts4.classpath.myoTmPfx firstApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:20.664
+!MESSAGE executing callback sts4.classpath.myoTmPfx 3 batched events
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:34:20.820
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:34:20.820
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 10:34:21.850
+!MESSAGE executing callback sts4.classpath.myoTmPfx SUCCESS [done]
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:36:21.184
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:36:21.185
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 10:37:03.937
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:37:03.940
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-06-30 10:37:03.943
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:37:03.984
+!MESSAGE Could not find python binary.
+
+!ENTRY com.wakatime.eclipse.plugin 4 0 2021-06-30 10:37:03.985
+!MESSAGE Please install Python from python.org/downloads then restart your IDE.
+
+!ENTRY Activator 1 0 2021-06-30 10:37:04.537
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-06-30 10:37:04.552
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-06-30 10:37:04.580
+!MESSAGE Has main method computation for project 'GetImplementation'
