@@ -1,13 +1,13 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=4
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=GetHandlerReadingQueryStringRequestParameters
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=6
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=GetHandlerReturningJavaObjAsJsonOrXml
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.5.2
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Boot
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.spring
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=16
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=GetHandlerReadingQueryStringRequestParameters
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.spring.GetHandlerReadingQueryStringRequestParameters
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=GetHandlerReturningJavaObjAsJsonOrXml
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.spring.GetHandlerReturningJavaObjAsJsonOrXml
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
