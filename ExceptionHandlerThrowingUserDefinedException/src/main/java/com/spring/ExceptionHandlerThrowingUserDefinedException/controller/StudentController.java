@@ -1,8 +1,10 @@
-package com.spring.ExceptionHandlerDisplayCustomMessage.controller;
+package com.spring.ExceptionHandlerThrowingUserDefinedException.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.spring.ExceptionHandlerThrowingUserDefinedException.exception.UserException;
 
 @RestController
 @RequestMapping("/students")
@@ -10,8 +12,10 @@ public class StudentController {
 	@GetMapping
 	public String getStudent()
 	{
-		String student = null;
-		int len = student.length();
-		return "getStudent() was called"; 
+		if(true)
+		{
+			throw new UserException("User exception was thrown");
+		}
+		return "getStudent() was called";
 	}
 }
