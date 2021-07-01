@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.spring.PutHandlerUpdatingStudentDetails.model.StudentModel;
@@ -43,21 +42,21 @@ public class StudentController {
 							 MediaType.APPLICATION_XML_VALUE},
 				 consumes = {MediaType.APPLICATION_JSON_VALUE,
 						 	 MediaType.APPLICATION_XML_VALUE})
-	public ResponseEntity<StudentModel> createStudent(@RequestBody StudentModel studentObj)
+	public ResponseEntity<String> createStudent(@RequestBody StudentModel studentObj)
 	{
 		if(student==null)
 		{
 			student = new HashMap<>();
 		}
 		student.put(studentObj.getRollNumber(), studentObj);
-		return new ResponseEntity<StudentModel>(studentObj,HttpStatus.OK);
+		return new ResponseEntity<String>("User created successfully",HttpStatus.OK);
 	}
 	
 	@PutMapping(path="/{studentId}",produces = {MediaType.APPLICATION_JSON_VALUE,
 			 									MediaType.APPLICATION_XML_VALUE},
 									consumes = {MediaType.APPLICATION_JSON_VALUE,
 												MediaType.APPLICATION_XML_VALUE})
-	public ResponseEntity<StudentModel> updateStudent(@PathVariable String studentId,
+	public ResponseEntity<String> updateStudent(@PathVariable String studentId,
 										@RequestBody StudentModel studentDetails)
 	{
 		StudentModel updateStudentObj = student.get(studentId);
@@ -65,6 +64,6 @@ public class StudentController {
 		updateStudentObj.setLastName(studentDetails.getLastName());
 		updateStudentObj.setDivision(studentDetails.getDivision());
 		student.put(studentId, updateStudentObj);
-		return new ResponseEntity<StudentModel>(updateStudentObj,HttpStatus.OK);
+		return new ResponseEntity<String>("User updated successfully",HttpStatus.OK);
 	}
 }
