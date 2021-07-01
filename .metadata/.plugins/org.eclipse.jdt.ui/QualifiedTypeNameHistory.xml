@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.method.support.AsyncHandlerMethodReturnValueHandler"/>
     <fullyQualifiedTypeName name="com.spring.firstApplication.model.UserRest"/>
-    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
-    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="com.spring.GetHandlerReturningJavaObj.model.StudentModel"/>
+    <fullyQualifiedTypeName name="com.spring.GetHandlerReturningJavaObj.controller.StudenController"/>
+    <fullyQualifiedTypeName name="com.spring.GetHandlerReturningJavaObjAsJsonOrXml.Model.StudentModel"/>
+    <fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
+    <fullyQualifiedTypeName name="com.spring.GetHandlerSettingResponseStatus.Model.StudentModel"/>
+    <fullyQualifiedTypeName name="org.springframework.http.RequestEntity"/>
+    <fullyQualifiedTypeName name="com.spring.PostHandlerReadingPostRequestBody.Model.StudentModel"/>
+    <fullyQualifiedTypeName name="com.spring.PostHandlerValidationOfPostRequestBody.Model.StudentModel"/>
+    <fullyQualifiedTypeName name="javax.validation.Valid"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
+    <fullyQualifiedTypeName name="org.springframework.http.MediaType"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
-    <fullyQualifiedTypeName name="com.spring.GetHandlerReturningJavaObj.model.StudentModel"/>
-    <fullyQualifiedTypeName name="com.spring.GetHandlerReturningJavaObj.controller.StudenController"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="com.spring.PostHandlerStoringDataAndDisplayUsingGetRequest.Model.StudentModel"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
 </qualifiedTypeNameHistroy>

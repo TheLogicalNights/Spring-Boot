@@ -16517,3 +16517,214 @@ java.util.concurrent.TimeoutException
 
 !ENTRY Activator 1 0 2021-06-30 18:26:10.336
 !MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 18:44:26.266
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zrJGRxwf
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 18:44:26.267
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.zrJGRxwf
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 18:44:26.267
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 18:44:26.267
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zrJGRxwf => OK
+!SESSION 2021-07-01 10:27:43.099 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-01 10:28:00.785
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-01 10:28:00.785
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@63b0b3dd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@397dfbe8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:11.838
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:11.839
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@70ebb7[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=553)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:11.841
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:11.971
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-07-01 10:28:13.227
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-01 10:28:13.229
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-01 10:28:13.231
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-01 10:28:13.236
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-01 10:28:13.252
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-01 10:28:13.274
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-01 10:28:13.278
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-01 10:28:13.279
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-01 10:28:13.281
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-01 10:28:13.284
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-01 10:28:13.285
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.552
+!MESSAGE Boot LS startup time from start to initialized: 11706ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.925
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ZqqSOqtgisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.931
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.934
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.936
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.942
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.943
+!MESSAGE buffering callback sts4.classpath.ZqqSOqtg PostHandlerStoringDataAndDisplayUsingGetRequest false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.951
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.953
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.954
+!MESSAGE buffering callback sts4.classpath.ZqqSOqtg GetHandlerReadingPathVariable false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.954
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.955
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.955
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ZqqSOqtg => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.957
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.958
+!MESSAGE buffering callback sts4.classpath.ZqqSOqtg GetHandlerReadingQueryStringRequestParameters false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.958
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.972
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.973
+!MESSAGE buffering callback sts4.classpath.ZqqSOqtg GetHandlerReturningJavaObj false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.973
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.983
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.984
+!MESSAGE buffering callback sts4.classpath.ZqqSOqtg GetHandlerReturningJavaObjAsJsonOrXml false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.985
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.995
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.996
+!MESSAGE buffering callback sts4.classpath.ZqqSOqtg GetHandlerSettingResponseStatus false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.996
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.998
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.999
+!MESSAGE buffering callback sts4.classpath.ZqqSOqtg GetImplementation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:23.999
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:24.001
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:24.002
+!MESSAGE buffering callback sts4.classpath.ZqqSOqtg PostHandlerReadingPostRequestBody false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:24.003
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:24.013
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:24.014
+!MESSAGE buffering callback sts4.classpath.ZqqSOqtg PostHandlerValidationOfPostRequestBody false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:24.015
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:24.022
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:24.023
+!MESSAGE buffering callback sts4.classpath.ZqqSOqtg PostImplementation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:24.024
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:24.031
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:24.033
+!MESSAGE buffering callback sts4.classpath.ZqqSOqtg firstApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:24.034
+!MESSAGE executing callback sts4.classpath.ZqqSOqtg 11 batched events
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2021-07-01 10:28:24.160
+!MESSAGE wakatime-cli is up to date.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-01 10:28:25.690
+!MESSAGE executing callback sts4.classpath.ZqqSOqtg SUCCESS [done]
