@@ -4545,3 +4545,2213 @@ java.util.concurrent.TimeoutException
 
 !ENTRY Activator 1 0 2021-07-02 12:30:38.542
 !MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.178
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.179
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.180
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.181
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.191
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.192
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.197
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.211
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.217
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.217
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.218
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.220
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.221
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.221
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.222
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.223
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.224
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.225
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.227
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.227
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.775
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.790
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.796
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.798
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.798
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.798
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.798
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.798
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.799
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.800
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.800
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.817
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.818
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.841
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.847
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.847
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.849
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.850
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:43.865
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:36:44.033
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.077
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.077
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.077
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.077
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.077
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.078
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.078
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.078
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.078
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.078
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.078
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.078
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.079
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.079
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.080
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.082
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.082
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.082
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.083
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.083
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.716
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.727
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.794
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.831
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.832
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.833
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.839
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.843
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.846
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.861
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.867
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.873
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.895
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.897
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.918
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.930
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.953
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:09.961
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:10.008
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:10.009
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.505
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.506
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.506
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.506
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.506
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.506
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.507
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.507
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.507
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.507
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.507
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.508
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.508
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.508
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.508
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.508
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.508
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.509
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.509
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:16.509
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.051
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.081
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.084
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.101
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.138
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.160
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.163
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.166
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.169
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.180
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.188
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.194
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.198
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.198
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.201
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.205
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.206
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.216
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.223
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:17.227
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.895
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.896
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.897
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.897
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.897
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.898
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.901
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.902
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.905
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.906
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.906
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.907
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.907
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.907
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.907
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.907
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.907
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.908
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.908
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:30.908
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.443
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.461
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.477
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.487
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.489
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.496
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.519
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.523
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.535
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.543
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.553
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.561
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.562
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.571
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.572
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.584
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.587
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.611
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.630
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:31.639
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.442
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.443
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.443
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.444
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.444
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.444
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.445
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.445
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.445
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.445
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.445
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.445
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.446
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.446
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.446
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.446
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.446
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.446
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.447
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:34.447
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.003
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.005
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.020
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.043
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.076
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.076
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.076
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.080
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.081
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.082
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.082
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.086
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.087
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.098
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.137
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.138
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.139
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.139
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.139
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:35.140
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.063
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.064
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.064
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.065
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.065
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.065
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.066
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.066
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.066
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.066
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.067
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.067
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.068
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.068
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.068
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.069
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.069
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.070
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.070
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.070
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.627
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.649
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.653
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.661
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.662
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.662
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.670
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.671
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.702
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.706
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.706
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.712
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.728
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.743
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.743
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.749
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.750
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.755
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.763
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:38.768
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.814
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.814
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.815
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.816
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.816
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.816
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.817
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.817
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.818
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.818
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.819
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.819
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.820
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.820
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.820
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.820
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.821
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.821
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.821
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:40.821
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.390
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.410
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.426
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.433
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.454
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.458
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.464
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.465
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.469
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.475
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.483
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.485
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.486
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.488
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.494
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.499
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.535
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.538
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.539
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:38:41.571
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.051
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.051
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.052
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.053
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.059
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.061
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.071
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.080
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.081
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.082
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.083
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.084
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.085
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.085
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.086
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.087
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.088
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.089
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.090
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.092
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.622
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.646
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.656
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.693
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.702
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.708
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.708
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.709
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.775
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.779
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.782
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.783
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.786
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.805
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.805
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.806
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.806
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.812
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.824
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:36.826
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.876
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.878
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.878
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.878
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.878
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.879
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.879
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.880
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.880
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.880
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.881
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.881
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.882
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.882
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.882
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.882
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.883
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.883
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.884
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:50.884
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.417
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.510
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.518
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.626
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.643
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.647
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.650
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.656
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.660
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.664
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.665
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.669
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.671
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.693
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.693
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.694
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.695
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.707
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.714
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:43:51.717
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.619
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.619
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.620
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.621
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.622
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.622
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.622
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.623
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.623
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.623
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.624
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.624
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.624
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.624
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.625
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.625
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.626
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.626
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.627
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:24.635
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.185
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.211
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.219
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.219
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.220
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.227
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.232
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.237
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.248
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.262
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.264
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.278
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.278
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.299
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.309
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.312
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.317
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.318
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.325
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:25.355
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.252
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.252
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.253
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.253
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.253
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.253
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.253
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.253
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.254
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.254
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.254
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.254
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.254
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.254
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.254
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.255
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.255
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.255
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.255
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.255
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.822
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.889
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.909
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.911
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.915
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.924
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.925
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.926
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.930
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.933
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.939
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.944
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.945
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.948
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.952
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.952
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.953
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.954
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.960
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:40.967
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.081
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.083
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.084
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.084
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.086
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.086
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.087
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.087
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.088
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.088
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.089
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.089
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.089
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.089
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.089
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.090
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.090
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.091
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.091
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.092
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.660
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.667
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.677
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.713
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.714
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.726
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.743
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.750
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.754
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.757
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.775
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.790
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.794
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.809
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.824
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.828
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.829
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.847
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.855
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:46:52.859
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.098
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.098
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.099
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.099
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.099
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.100
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.100
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.101
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.102
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.103
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.104
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.105
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.112
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.112
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY org.eclipse.ui 2 0 2021-07-02 12:47:16.112
+!MESSAGE Save Failed
+!STACK 0
+java.lang.IllegalArgumentException: Illegal value: -1
+	at org.eclipse.core.internal.resources.Resource.revertModificationStamp(Resource.java:1585)
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.commitFileBufferContent(ResourceTextFileBuffer.java:360)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.commit(ResourceFileBuffer.java:317)
+	at org.eclipse.jdt.internal.ui.javaeditor.DocumentAdapter.save(DocumentAdapter.java:516)
+	at org.eclipse.jdt.internal.core.CommitWorkingCopyOperation.executeOperation(CommitWorkingCopyOperation.java:127)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:811)
+	at org.eclipse.jdt.internal.core.CompilationUnit.commitWorkingCopy(CompilationUnit.java:405)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.commitWorkingCopy(CompilationUnitDocumentProvider.java:1418)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider$3.execute(CompilationUnitDocumentProvider.java:1495)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider$DocumentProviderOperation.run(TextFileDocumentProvider.java:133)
+	at org.eclipse.ui.actions.WorkspaceModifyDelegatingOperation.execute(WorkspaceModifyDelegatingOperation.java:71)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:110)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.ui.internal.editors.text.WorkspaceOperationRunner.run(WorkspaceOperationRunner.java:76)
+	at org.eclipse.ui.internal.editors.text.WorkspaceOperationRunner.run(WorkspaceOperationRunner.java:66)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.executeOperation(TextFileDocumentProvider.java:461)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.saveDocument(TextFileDocumentProvider.java:764)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.performSave(AbstractTextEditor.java:5007)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.performSave(CompilationUnitEditor.java:1262)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSave(CompilationUnitEditor.java:1316)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextEditorSavable.doSave(AbstractTextEditor.java:7151)
+	at org.eclipse.ui.Saveable.doSave(Saveable.java:213)
+	at org.eclipse.ui.internal.SaveableHelper.doSaveModel(SaveableHelper.java:333)
+	at org.eclipse.ui.internal.SaveableHelper.lambda$1(SaveableHelper.java:196)
+	at org.eclipse.ui.internal.SaveableHelper.lambda$3(SaveableHelper.java:271)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2345)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2343)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:278)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:260)
+	at org.eclipse.ui.internal.SaveableHelper.saveModels(SaveableHelper.java:207)
+	at org.eclipse.ui.internal.SaveableHelper.savePart(SaveableHelper.java:150)
+	at org.eclipse.ui.internal.WorkbenchPage.saveSaveable(WorkbenchPage.java:3820)
+	at org.eclipse.ui.internal.WorkbenchPage.saveEditor(WorkbenchPage.java:3833)
+	at org.eclipse.ui.internal.handlers.SaveHandler.execute(SaveHandler.java:82)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at jdk.internal.reflect.GeneratedMethodAccessor96.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:308)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:584)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:653)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:443)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:96)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1940)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1426)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1453)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1436)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.gtk_key_press_event(Widget.java:838)
+	at org.eclipse.swt.widgets.Control.gtk_key_press_event(Control.java:3987)
+	at org.eclipse.swt.widgets.Composite.gtk_key_press_event(Composite.java:896)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2315)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:6764)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6132)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_do_event(Native Method)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1567)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_iteration_do(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4596)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.115
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.115
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.116
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.116
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.116
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.117
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.713
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.775
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.841
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.872
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.886
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.886
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.903
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.915
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.923
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.940
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.944
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.950
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.962
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.978
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:16.995
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:17.002
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:17.008
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:17.008
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:17.041
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:17.057
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.143
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.144
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.145
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.145
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.145
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.145
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.145
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.145
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.145
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.146
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.146
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.146
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.147
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.147
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.147
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.148
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.148
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.149
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.149
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.150
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY org.eclipse.ui 2 0 2021-07-02 12:47:26.162
+!MESSAGE Save Failed
+!STACK 0
+java.lang.IllegalArgumentException: Illegal value: -1
+	at org.eclipse.core.internal.resources.Resource.revertModificationStamp(Resource.java:1585)
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.commitFileBufferContent(ResourceTextFileBuffer.java:360)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.commit(ResourceFileBuffer.java:317)
+	at org.eclipse.jdt.internal.ui.javaeditor.DocumentAdapter.save(DocumentAdapter.java:516)
+	at org.eclipse.jdt.internal.core.CommitWorkingCopyOperation.executeOperation(CommitWorkingCopyOperation.java:127)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:811)
+	at org.eclipse.jdt.internal.core.CompilationUnit.commitWorkingCopy(CompilationUnit.java:405)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.commitWorkingCopy(CompilationUnitDocumentProvider.java:1418)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider$3.execute(CompilationUnitDocumentProvider.java:1495)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider$DocumentProviderOperation.run(TextFileDocumentProvider.java:133)
+	at org.eclipse.ui.actions.WorkspaceModifyDelegatingOperation.execute(WorkspaceModifyDelegatingOperation.java:71)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:110)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.ui.internal.editors.text.WorkspaceOperationRunner.run(WorkspaceOperationRunner.java:76)
+	at org.eclipse.ui.internal.editors.text.WorkspaceOperationRunner.run(WorkspaceOperationRunner.java:66)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.executeOperation(TextFileDocumentProvider.java:461)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.saveDocument(TextFileDocumentProvider.java:764)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.performSave(AbstractTextEditor.java:5007)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.performSave(CompilationUnitEditor.java:1262)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSave(CompilationUnitEditor.java:1316)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextEditorSavable.doSave(AbstractTextEditor.java:7151)
+	at org.eclipse.ui.Saveable.doSave(Saveable.java:213)
+	at org.eclipse.ui.internal.SaveableHelper.doSaveModel(SaveableHelper.java:333)
+	at org.eclipse.ui.internal.SaveableHelper.lambda$1(SaveableHelper.java:196)
+	at org.eclipse.ui.internal.SaveableHelper.lambda$3(SaveableHelper.java:271)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2345)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2343)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:278)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:260)
+	at org.eclipse.ui.internal.SaveableHelper.saveModels(SaveableHelper.java:207)
+	at org.eclipse.ui.internal.SaveableHelper.savePart(SaveableHelper.java:150)
+	at org.eclipse.ui.internal.WorkbenchPage.saveSaveable(WorkbenchPage.java:3820)
+	at org.eclipse.ui.internal.WorkbenchPage.saveEditor(WorkbenchPage.java:3833)
+	at org.eclipse.ui.internal.handlers.SaveHandler.execute(SaveHandler.java:82)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at jdk.internal.reflect.GeneratedMethodAccessor96.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:308)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:584)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:653)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:443)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:96)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1940)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1426)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1453)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1436)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.gtk_key_press_event(Widget.java:838)
+	at org.eclipse.swt.widgets.Control.gtk_key_press_event(Control.java:3987)
+	at org.eclipse.swt.widgets.Composite.gtk_key_press_event(Composite.java:896)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2315)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:6764)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6132)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_do_event(Native Method)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1567)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_iteration_do(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4596)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.714
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.797
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.835
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.853
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.882
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.883
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.893
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.908
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.965
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.968
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.984
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:26.997
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:27.012
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:27.046
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:27.053
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:27.060
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:27.063
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:27.080
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:27.085
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:27.226
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.922
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.922
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.922
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.923
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.923
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.923
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.923
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.923
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.924
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.925
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.927
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.928
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.931
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.932
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.932
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.932
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.932
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.932
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.935
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:42.936
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.012
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.054
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.071
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.090
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.106
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.107
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.121
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.123
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.129
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.132
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.142
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.149
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.154
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.155
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.159
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.163
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.167
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.181
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.186
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:43.195
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.156
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.156
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.157
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.157
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.160
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.163
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.163
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.166
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.167
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.167
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.168
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.168
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.170
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.172
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.174
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.174
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.174
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.175
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.179
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:51.183
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.299
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.299
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.299
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.300
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.303
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.303
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.307
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.307
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.309
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.310
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.310
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.311
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.312
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.313
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.313
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.314
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.315
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.316
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.318
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.322
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.406
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.425
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowAndHandleCustomException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.426
+!MESSAGE Has main method computation for project 'DeleteHandlerDeletingStudent'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.436
+!MESSAGE Has main method computation for project 'createStudentMethodAutowiring'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.440
+!MESSAGE Has main method computation for project 'ExceptionHandler'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.443
+!MESSAGE Has main method computation for project 'PostHandlerValidationOfPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.444
+!MESSAGE Has main method computation for project 'GetHandlerReadingPathVariable'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.457
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObj'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.472
+!MESSAGE Has main method computation for project 'PostImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.492
+!MESSAGE Has main method computation for project 'GetHandlerReadingQueryStringRequestParameters'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.494
+!MESSAGE Has main method computation for project 'PutHandlerUpdatingStudentDetails'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.495
+!MESSAGE Has main method computation for project 'ExceptionHandlerDisplayCustomMessage'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.496
+!MESSAGE Has main method computation for project 'GetImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.509
+!MESSAGE Has main method computation for project 'GetHandlerSettingResponseStatus'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.523
+!MESSAGE Has main method computation for project 'DeleteImplementation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.526
+!MESSAGE Has main method computation for project 'PostHandlerReadingPostRequestBody'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.538
+!MESSAGE Has main method computation for project 'PostHandlerStoringDataAndDisplayUsingGetRequest'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.551
+!MESSAGE Has main method computation for project 'ExceptionHandlerThrowingUserDefinedException'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.559
+!MESSAGE Has main method computation for project 'PutImplementetation'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.560
+!MESSAGE Has main method computation for project 'firstApplication'
+
+!ENTRY Activator 1 0 2021-07-02 12:47:58.611
+!MESSAGE Has main method computation for project 'GetHandlerReturningJavaObjAsJsonOrXml'
+
+!ENTRY org.eclipse.jface 2 0 2021-07-02 12:48:32.606
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-02 12:48:32.606
+!MESSAGE A conflict occurred for CTRL+R:
+Binding(CTRL+R,
+	ParameterizedCommand(Command(org.eclipse.debug.ui.commands.RunToLine,Run to Line,
+		Resume and break when execution reaches the current line,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55d4c46c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.debugging,,,system)
+Binding(CTRL+R,
+	ParameterizedCommand(Command(org.springframework.ide.eclipse.boot.restart.commands.restart,Trigger Restart,
+		Restart Spring Boot Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6c6954fa,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.console,,,system)

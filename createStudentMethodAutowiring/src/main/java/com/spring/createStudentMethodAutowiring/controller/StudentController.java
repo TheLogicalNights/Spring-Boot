@@ -5,6 +5,7 @@ import java.util.Map;
 
 import javax.validation.Valid;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
@@ -16,12 +17,17 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.spring.createStudentMethodAutowiring.model.StudentModel;
+import com.spring.createStudentMethodAutowiring.serviceImplementation.StudentService;
 
 @RestController
 @RequestMapping("/students")
 public class StudentController 
 {
 	Map<String, StudentModel> student;
+	
+	@Autowired
+	StudentService studentServiceObj;
+	
 	@GetMapping(path="/{studentId}")
 	public ResponseEntity<StudentModel> getStudent(@PathVariable String studentId)
 	{
@@ -41,11 +47,7 @@ public class StudentController
 			    		MediaType.APPLICATION_XML_VALUE})
 	public ResponseEntity<String> createStudent(@Valid @RequestBody StudentModel studentObj)
 	{
-		StudentModel returnValue = new StudentModel();
-		returnValue.setRollNumber(studentObj.getRollNumber());
-		returnValue.setFirstName(studentObj.getFirstName());
-		returnValue.setLastName(studentObj.getLastName());
-		returnValue.setEmail(studentObj.getEmail());
+		StudentModel returnValue = studentServiceObj.createStudent(studentObj);
 		
 		if(student==null)
 		{
