@@ -3,6 +3,9 @@ package com.spring.createStudentMethodAutowiring.model;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotNull;
 
+import org.springframework.stereotype.Service;
+
+@Service
 public class StudentModel 
 {
 	@NotNull(message = "rollnumber cannot be null")
