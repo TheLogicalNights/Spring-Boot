@@ -1,5 +1,8 @@
 package com.spring.JpaInsertOperation.Model;
 
+import org.springframework.stereotype.Service;
+
+@Service
 public class StudentModel {
 	private String rollNumber;
 	private String firstName;
