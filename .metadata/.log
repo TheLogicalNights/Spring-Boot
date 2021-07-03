@@ -8068,3 +8068,393 @@ Contains: Missing antlr:antlr:jar:javadoc:2.7.7
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 22:22:56.819
 !MESSAGE executing callback sts4.classpath.IYqPhXUK SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 22:36:08.779
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.IYqPhXUK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 22:36:08.779
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.IYqPhXUK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 22:36:08.780
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 22:36:08.780
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.IYqPhXUK => OK
+!SESSION 2021-07-03 23:01:20.088 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-03 23:01:38.490
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-03 23:01:38.490
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@320e179f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@24731caf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:01:46.506
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:01:46.506
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@f9c9fe1[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=553)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:01:46.509
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:01:46.669
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY com.wakatime.eclipse.plugin 2 0 2021-07-03 23:01:58.599
+!MESSAGE Warning
+!STACK 0
+java.net.UnknownHostException: raw.githubusercontent.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:645)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:290)
+	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:182)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:497)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:600)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:379)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1120)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1653)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1577)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+	at java.base/java.net.URL.openStream(URL.java:1192)
+	at com.wakatime.eclipse.plugin.Dependencies.getUrlAsString(Dependencies.java:273)
+	at com.wakatime.eclipse.plugin.Dependencies.latestCliVersion(Dependencies.java:139)
+	at com.wakatime.eclipse.plugin.Dependencies.isCLIOld(Dependencies.java:125)
+	at com.wakatime.eclipse.plugin.WakaTime.checkCore(WakaTime.java:206)
+	at com.wakatime.eclipse.plugin.WakaTime.access$0(WakaTime.java:201)
+	at com.wakatime.eclipse.plugin.WakaTime$1.run(WakaTime.java:144)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5096)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4602)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2021-07-03 23:01:58.600
+!MESSAGE Upgrading wakatime-cli ...
+
+!ENTRY com.wakatime.eclipse.plugin 2 0 2021-07-03 23:01:58.602
+!MESSAGE Warning
+!STACK 0
+java.net.UnknownHostException: codeload.github.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:645)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:290)
+	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:182)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:497)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:600)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:379)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1120)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1653)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1577)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+	at java.base/java.net.URL.openStream(URL.java:1192)
+	at com.wakatime.eclipse.plugin.Dependencies.downloadFile(Dependencies.java:227)
+	at com.wakatime.eclipse.plugin.Dependencies.installCLI(Dependencies.java:165)
+	at com.wakatime.eclipse.plugin.Dependencies.upgradeCLI(Dependencies.java:184)
+	at com.wakatime.eclipse.plugin.WakaTime.checkCore(WakaTime.java:208)
+	at com.wakatime.eclipse.plugin.WakaTime.access$0(WakaTime.java:201)
+	at com.wakatime.eclipse.plugin.WakaTime$1.run(WakaTime.java:144)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5096)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4602)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2021-07-03 23:01:58.603
+!MESSAGE Finished upgrading wakatime-cli.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:00.880
+!MESSAGE Boot LS startup time from start to initialized: 14318ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.140
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.QLrbsdtUisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.145
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.148
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.149
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.149
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.149
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.QLrbsdtU => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.158
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.159
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU JpaInsertOperation false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.159
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.162
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.163
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU DeleteHandlerDeletingStudent false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.180
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.189
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.190
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU DeleteImplementation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.191
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.193
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.194
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU ExceptionHandler false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.195
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.208
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.209
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU ExceptionHandlerDisplayCustomMessage false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.210
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.215
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.216
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU ExceptionHandlerThrowAndHandleCustomException false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.217
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.219
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.228
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU ExceptionHandlerThrowingUserDefinedException false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.228
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.230
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.231
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU GetHandlerReadingPathVariable false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.232
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.237
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.237
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU GetHandlerReadingQueryStringRequestParameters false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.238
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.240
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.241
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU GetHandlerReturningJavaObj false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.241
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.243
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.244
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU GetHandlerReturningJavaObjAsJsonOrXml false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.244
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.246
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.247
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU GetHandlerSettingResponseStatus false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.247
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.249
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.250
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU GetImplementation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.250
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.252
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.252
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU PostHandlerReadingPostRequestBody false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.252
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.254
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.254
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU PostHandlerStoringDataAndDisplayUsingGetRequest false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.255
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.264
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.268
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU PostHandlerValidationOfPostRequestBody false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.269
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.270
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.271
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU PostImplementation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.280
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.282
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.283
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU PutHandlerUpdatingStudentDetails false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.289
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.291
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.292
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU PutImplementetation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.292
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.294
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.295
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU SpringBootMVC false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.296
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.298
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.299
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU createStudentMethodAutowiring false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.300
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.307
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.308
+!MESSAGE buffering callback sts4.classpath.QLrbsdtU firstApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:02.308
+!MESSAGE executing callback sts4.classpath.QLrbsdtU 22 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-03 23:02:04.329
+!MESSAGE executing callback sts4.classpath.QLrbsdtU SUCCESS [done]
