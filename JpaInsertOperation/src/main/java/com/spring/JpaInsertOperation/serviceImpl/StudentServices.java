@@ -1,5 +1,7 @@
 package com.spring.JpaInsertOperation.serviceImpl;
 
-public interface StudentServices {
+import com.spring.JpaInsertOperation.Model.StudentModel;
 
+public interface StudentServices {
+	public Boolean createStudent(StudentModel studentObj);
 }
