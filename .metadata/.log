@@ -8856,3 +8856,249 @@ Binding(CTRL+SHIFT+C,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:08.453
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.sWslTCYN
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:08.454
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.sWslTCYN
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:08.454
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:08.454
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.sWslTCYN => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:17.636
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:17.637
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@281faf45[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=553)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:17.637
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.756
+!MESSAGE Boot LS startup time from start to initialized: 3117ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.947
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.sWPHXWdUisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.949
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.949
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.950
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.950
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.956
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.sWPHXWdU => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.956
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.957
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU JpaInsertOperation false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.958
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.959
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.960
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU DeleteHandlerDeletingStudent false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.961
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.962
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.963
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU DeleteImplementation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.963
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.968
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.974
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU ExceptionHandler false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.977
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.979
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.980
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU ExceptionHandlerDisplayCustomMessage false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.983
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.984
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.985
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU ExceptionHandlerThrowAndHandleCustomException false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.986
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.987
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.988
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU ExceptionHandlerThrowingUserDefinedException false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.988
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.990
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.991
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU GetHandlerReadingPathVariable false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.991
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.994
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.995
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU GetHandlerReadingQueryStringRequestParameters false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.996
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.998
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.998
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU GetHandlerReturningJavaObj false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:20.999
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.000
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.001
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU GetHandlerReturningJavaObjAsJsonOrXml false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.001
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.003
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.004
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU GetHandlerSettingResponseStatus false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.004
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.005
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.006
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU GetImplementation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.006
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.008
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.008
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU PostHandlerReadingPostRequestBody false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.008
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.010
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.010
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU PostHandlerStoringDataAndDisplayUsingGetRequest false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.011
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.012
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.013
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU PostHandlerValidationOfPostRequestBody false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.013
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.014
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.015
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU PostImplementation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.015
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.017
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.017
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU PutHandlerUpdatingStudentDetails false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.017
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.019
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.020
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU PutImplementetation false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.020
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.022
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.022
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU SpringBootMVC false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.023
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.024
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.025
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU createStudentMethodAutowiring false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.025
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.027
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.028
+!MESSAGE buffering callback sts4.classpath.sWPHXWdU firstApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.028
+!MESSAGE executing callback sts4.classpath.sWPHXWdU 22 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-04 13:00:21.946
+!MESSAGE executing callback sts4.classpath.sWPHXWdU SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-07-04 13:04:25.412
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
