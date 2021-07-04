@@ -1,10 +1,18 @@
 package com.spring.JpaInsertOperation.Model;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
 import org.springframework.stereotype.Service;
 
 @Service
+@Entity
 public class StudentModel {
-	private String rollNumber;
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private int rollNumber;
 	private String firstName;
 	private String lastName;
 	private String email;
@@ -14,7 +22,7 @@ public class StudentModel {
 		// TODO Auto-generated constructor stub
 	}
 
-	public StudentModel(String rollNumber, String firstName, String lastName, String email) {
+	public StudentModel(int rollNumber, String firstName, String lastName, String email) {
 		super();
 		this.rollNumber = rollNumber;
 		this.firstName = firstName;
@@ -22,11 +30,11 @@ public class StudentModel {
 		this.email = email;
 	}
 
-	public String getRollNumber() {
+	public int getRollNumber() {
 		return rollNumber;
 	}
 
-	public void setRollNumber(String rollNumber) {
+	public void setRollNumber(int rollNumber) {
 		this.rollNumber = rollNumber;
 	}
 
