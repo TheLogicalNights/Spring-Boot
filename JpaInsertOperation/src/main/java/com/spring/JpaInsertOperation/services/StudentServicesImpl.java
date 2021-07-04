@@ -17,7 +17,7 @@ public class StudentServicesImpl implements StudentServices {
 		studentModelObj.setFirstName(studentObj.getFirstName());
 		studentModelObj.setLastName(studentObj.getLastName());
 		studentModelObj.setEmail(studentObj.getEmail());
-		return null;
+		return true;
 	}
 
 }
