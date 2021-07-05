@@ -7,5 +7,5 @@ import com.spring.JpaReadOperation.model.StudentModel;
 
 @Service
 public interface StudentRepo extends CrudRepository<StudentModel, Integer>{
-
+	public StudentModel findById(int id);
 }

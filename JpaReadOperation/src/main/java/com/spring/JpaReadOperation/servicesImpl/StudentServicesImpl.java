@@ -19,5 +19,11 @@ public class StudentServicesImpl implements StudentServices {
 		List<StudentModel> returnValue = (List<StudentModel>) studentRepoObj.findAll();
 		return returnValue;
 	}
+	@Override
+	public StudentModel getstudent(int rollNumber) 
+	{
+		StudentModel studentObj = studentRepoObj.findById(rollNumber);
+		return studentObj;
+	}
 
 }

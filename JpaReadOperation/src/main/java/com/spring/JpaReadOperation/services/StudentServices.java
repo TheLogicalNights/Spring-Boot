@@ -6,4 +6,5 @@ import com.spring.JpaReadOperation.model.StudentModel;
 
 public interface StudentServices {
 	public List<StudentModel> getStudents();
+	public StudentModel getstudent(int rollNumber);
 }
